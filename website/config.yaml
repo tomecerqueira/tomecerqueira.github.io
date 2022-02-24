@@ -21,11 +21,11 @@ enableEmoji: true
 # menus
 Menus:
   main:
-    # - identifier: blog
-    #   name: Blog
-    #   title: Blog posts
-    #   url: /blog
-    #   weight: 1
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: /blog
+      weight: 1
 
     #Dropdown menu
     # - identifier: dropdown
@@ -59,11 +59,11 @@ params:
   namecolor: ffc107
   profession: "Software Developer"
   github: "https://github.com/tomecerqueira"
-  #gitlab: "https://gitlab.com"
+  gitlab: "https://gitlab.com"
   linkedin: "https://www.linkedin.com/in/tom%C3%A9-cerqueira-156799150/"
-  #twitter: "https://twitter.com/"
-  #instagram: "https://instagram.com/"
-  #facebook: "https://facebook.com"
+  twitter: "https://twitter.com/"
+  instagram: "https://instagram.com/"
+  facebook: "https://facebook.com"
 
   #Custom social links
   # customSocialLinks:
@@ -74,8 +74,7 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Tomé. I've always been a software developer during my (small) carrer. Started programming at 14 and studied it until I was 18.
-                       Had the opportunity to this my daily job and grabed it! "
+  descripe_l1_person: "Hi, I'm Tomé. I've always been a software developer during my (small) carrer. Started programming at 14 and studied it until I was 18. Had the opportunity to this my daily job and grabed it! "
   descripe_l2_person: "Hope you want to know more about me and my projects :smile:. You can find my works [here](#projects)"
   skills:
     - name: C#
