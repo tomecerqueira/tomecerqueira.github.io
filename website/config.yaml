@@ -19,6 +19,7 @@ taxonomies:
 enableEmoji: true
 
 # menus
+disable_extra_menus: false
 Menus:
   main:
     - identifier: blog
@@ -63,7 +64,7 @@ params:
   linkedin: "https://www.linkedin.com/in/tom%C3%A9-cerqueira-156799150/"
   #twitter: "https://twitter.com/"
   #instagram: "https://instagram.com/"
-  facebook: "https://facebook.com"
+  #facebook: "https://facebook.com"
 
   #Custom social links
   # customSocialLinks:
@@ -75,7 +76,7 @@ params:
   # About
   disable_about: false
   descripe_l1_person: "Hi, I'm Tomé. I've always been a software developer during my carrer. Started programming at 14 and studied it until I was 18. Had the opportunity to this my daily job and grabed it! "
-  descripe_l2_person: "Hope you want to know more about me and my projects. You can find my works [here](#projects)"
+  descripe_l2_person: "Hope you want to know more about me and my projects! You can find my works [here](#projects)"
   skills:
     - name: C#
       percentage: 90
@@ -89,7 +90,7 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "ALS Global Life Sciences"
+    - company: "ALS Global"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Software Developer / Project Manager"
       startdate: Oct 2015
@@ -117,7 +118,7 @@ params:
       description: "Description of project"
 
   # Achievements
-  disable_achievements: false
+  disable_achievements: true
   achievements:
     - title: Competition winner
       description: We are developed a product which can help others.
@@ -129,12 +130,12 @@ params:
 
   # Contact
   disable_contact: false
-  contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+  contact_content: Whether you have a question or just want to say hi, I'll try my best to get back to you!
   email: "tcerqueira126@mail.com"
 
   # Footer
   socialiconfooter: true
-  recentposts: true
+  recentposts: false
 
   # Blog
   showdescription: false

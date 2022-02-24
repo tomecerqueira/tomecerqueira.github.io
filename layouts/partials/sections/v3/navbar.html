@@ -64,6 +64,8 @@
         </li>
         {{ end }}
 
+        {{ if .Site.Params.disable_extra_menus }}
+        {{ else }}
         {{ range .Site.Menus.main }}
         {{ if .HasChildren }}
         <!-- Dropdown menu -->
@@ -104,6 +106,7 @@
         </li>
         {{end}}
         {{end}}
+        {{ end }}
 
         <li class="nav-item navbar-text">
           <div class="custom-control custom-switch">
