@@ -59,11 +59,11 @@ params:
   namecolor: ffc107
   profession: "Software Developer"
   github: "https://github.com/tomecerqueira"
-  gitlab: "https://gitlab.com"
+  #gitlab: "https://gitlab.com"
   linkedin: "https://www.linkedin.com/in/tom%C3%A9-cerqueira-156799150/"
-  twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
-  facebook: "https://facebook.com"
+  #twitter: "https://twitter.com/"
+  #instagram: "https://instagram.com/"
+  #facebook: "https://facebook.com"
 
   #Custom social links
   # customSocialLinks:
@@ -97,10 +97,8 @@ params:
       enddate: present
       featuredpoints:
         - point: Started as Full Stack Junior Developer and continued improving until being a Senior Developer.
-      startdate: Sep 2020
-      enddate: present
-      featuredpoints:
         - point: Helping the team achieving their best as Project Manager and as a Developer.
+
   # Education
   disable_education: false
   education:
