@@ -19,13 +19,13 @@ taxonomies:
 enableEmoji: true
 
 # menus
-disable_extra_menus: false
+disable_extra_menus: true
 Menus:
   main:
     - identifier: cv
       name: CV
       title: CV
-      url: https://tomecerqueira.github.io/files/TomeCerqueira.pdf
+      url: /CV
       weight: 1
 
     #Dropdown menu
