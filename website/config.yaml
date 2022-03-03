@@ -92,7 +92,7 @@ params:
   experience:
     - company: "ALS Global"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
-      role: "Software Developer / Project Manager"
+      role: "Software Developer/Project Manager"
       startdate: Oct 2015
       enddate: present
       featuredpoints:
@@ -111,11 +111,11 @@ params:
   # Projects
   disable_projects: false
   projects:
-    - name: "Example project without details"
+    - name: "Currency Converter"
       img: /images/project.jpg
-      githublink: "https://github.com/"
+      githublink: "https://github.com/tomecerqueira/currency-converter"
       featuredlink: "/"
-      description: "Description of project"
+      description: "Flask application to convert currencies and commodities. Includes chart with 5 important pairs compared to the Euro and more charts to come"
 
   # Achievements
   disable_achievements: true
