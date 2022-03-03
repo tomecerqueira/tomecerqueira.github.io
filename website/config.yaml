@@ -19,13 +19,13 @@ taxonomies:
 enableEmoji: true
 
 # menus
-disable_extra_menus: false
+disable_extra_menus: true
 Menus:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blog
+    - identifier: cv
+      name: CV
+      title: CV
+      url: /CV
       weight: 1
 
     #Dropdown menu
@@ -76,7 +76,8 @@ params:
   # About
   disable_about: false
   descripe_l1_person: "Hi, I'm Tomé. I've always been a software developer during my carrer. Started programming at 14 and studied it until I was 18. Had the opportunity to this my daily job and grabed it! "
-  descripe_l2_person: "Hope you want to know more about me and my projects! You can find my works [here](#projects)"
+  descripe_l2_person: "I'm a very enthusiastic person and I'm willing to learn new technologies (it can be by myself, I've done it all my carrer :D)"
+  descripe_l3_person: "Hope you want to know more about me and my projects! You can find my works [here](#projects)"
   skills:
     - name: C#
       percentage: 90
@@ -85,7 +86,7 @@ params:
     - name: Flask
       percentage: 40
     - name: Mongo DB
-      percentage: 30
+      percentage: 40
 
   # Experience
   disable_experience: false
