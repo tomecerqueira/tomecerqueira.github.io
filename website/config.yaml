@@ -75,18 +75,18 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Tomé. I've always been a software developer during my carrer. Started programming at 14 and studied it until I was 18. Had the opportunity to this my daily job and grabed it! "
-  descripe_l2_person: "I'm a very enthusiastic person and I'm willing to learn new technologies (it can be by myself, I've done it all my carrer :D)"
-  descripe_l3_person: "Hope you want to know more about me and my projects! You can find my works [here](#projects)"
+  descripe_l1_person: "I'm Software Developer/Enginneer based in Porto, Portugal. Currently I'm a Project Manager and Sofware Engineer at ALS Global."
+  descripe_l2_person: 'I'm always willing to try new technologies. My core knowledge is in .NET and SQL Server development but I'm loving Python as well. I really am focused in making a "technology carrer change" so I'm putting all my strengths in skilling up at Python!'
+  descripe_l3_person: "I consider myself a very enthusiastic, emphatic and straightforward person. Hope you want to know more about me and my projects! You can find my works [here](#projects)"
   skills:
     - name: C#
       percentage: 90
     - name: SQL Server
       percentage: 80
     - name: Flask
-      percentage: 40
+      percentage: 50
     - name: Mongo DB
-      percentage: 40
+      percentage: 50
 
   # Experience
   disable_experience: false
