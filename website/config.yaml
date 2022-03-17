@@ -76,7 +76,7 @@ params:
   # About
   disable_about: false
   descripe_l1_person: "I'm Software Developer/Enginneer based in Porto, Portugal. Currently I'm a Project Manager and Sofware Engineer at ALS Global."
-  descripe_l2_person: 'I'm always willing to try new technologies. My core knowledge is in .NET and SQL Server development but I'm loving Python as well. I really am focused in making a "technology carrer change" so I'm putting all my strengths in skilling up at Python!'
+  descripe_l2_person: "I'm always willing to try new technologies. My core knowledge is in .NET and SQL Server development but I'm loving Python as well. I really am focused in making a "technology carrer change" so I'm putting all my strengths in skilling up at Python!"
   descripe_l3_person: "I consider myself a very enthusiastic, emphatic and straightforward person. Hope you want to know more about me and my projects! You can find my works [here](#projects)"
   skills:
     - name: C#
